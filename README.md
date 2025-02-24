@@ -1,7 +1,7 @@
 # Projeto de Cartão de Perfil
 Um Projeto de um Cartão de Perfil com informações pessoais.
 
-[<img src="./telaReadme.jpg" alt="Imagem da Tela Inicial">]
+[<img src="./images/telaReadme.jpg" alt="Imagem da Tela Inicial">]
 
 ## Linguagens Utilizadas 💻
 - HTML; 💻
